@@ -1,9 +1,4 @@
-# Chatmesh Desktop
 
-Decentralized private chat.
+# deprecated 
 
-```
-$ npm install             # install dependencies
-$ npm run watch           # watch the assets
-$ npm start               # start the application
-```
+moved to http://github.com/cabal-club/cabal-desktop/
